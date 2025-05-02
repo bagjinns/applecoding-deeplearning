@@ -1,4 +1,7 @@
 import tensorflow as tf
+import pandas as pd
+import numpy as np
+
 
 # tensor = tf.constant([3, 4, 5])
 # tensor2 = tf.constant([5, 6, 7])
